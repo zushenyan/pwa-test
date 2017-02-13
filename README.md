@@ -22,5 +22,4 @@ This will server `index.html` on `localhost:8080` by default.
 Here's the resources I learned from when trying to build PWA app:
 
 - [Your first PWA app](https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0)
-- [Push notification](https://codelabs.developers.google.com/codelabs/push-notifications/index.html?index=..%2F..%2Findex#0)
 - [Stuff I wish I'd known sooner about service workers](https://gist.github.com/Rich-Harris/fd6c3c73e6e707e312d7c5d7d0f3b2f9)
